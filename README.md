@@ -12,5 +12,6 @@ Simple (and crude) Python Script to download and build macOS Installers on Windo
 
 ## legacy_esd.py Usage:
 legacy_esd.py --download 10.X
+
 Only 10.7 and 10.8 are supported
 
